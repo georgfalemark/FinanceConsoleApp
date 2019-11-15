@@ -6,7 +6,11 @@ namespace FinanceConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ALLAN BALLAN");
+
+
+
+
+            Console.WriteLine("hello");
         }
     }
 }
