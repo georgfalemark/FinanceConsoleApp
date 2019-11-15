@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceConsoleApp", "FinanceConsoleApp\FinanceConsoleApp.csproj", "{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinnhubAPI", "FinnhubAPI\FinnhubAPI.csproj", "{D4B769C3-A935-4DF2-9AB1-70167D3475FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinnhubAPI.Tests", "FinnhubAPI.Tests\FinnhubAPI.Tests.csproj", "{6DD779DE-6CD0-4866-B544-845FBB55C3F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B769C3-A935-4DF2-9AB1-70167D3475FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B769C3-A935-4DF2-9AB1-70167D3475FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B769C3-A935-4DF2-9AB1-70167D3475FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B769C3-A935-4DF2-9AB1-70167D3475FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD779DE-6CD0-4866-B544-845FBB55C3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD779DE-6CD0-4866-B544-845FBB55C3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD779DE-6CD0-4866-B544-845FBB55C3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD779DE-6CD0-4866-B544-845FBB55C3F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
