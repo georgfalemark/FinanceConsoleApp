@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceConsoleApp", "FinanceConsoleApp\FinanceConsoleApp.csproj", "{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceConsoleApp", "FinanceConsoleApp\FinanceConsoleApp.csproj", "{58287FBD-8A00-4E5F-8FC2-C57650C7F7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinnhubAPI", "FinnhubAPI\FinnhubAPI.csproj", "{D4B769C3-A935-4DF2-9AB1-70167D3475FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinnhubAPI", "FinnhubAPI\FinnhubAPI.csproj", "{D4B769C3-A935-4DF2-9AB1-70167D3475FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinnhubAPI.Tests", "FinnhubAPI.Tests\FinnhubAPI.Tests.csproj", "{6DD779DE-6CD0-4866-B544-845FBB55C3F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinnhubAPI.Tests", "FinnhubAPI.Tests\FinnhubAPI.Tests.csproj", "{6DD779DE-6CD0-4866-B544-845FBB55C3F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
