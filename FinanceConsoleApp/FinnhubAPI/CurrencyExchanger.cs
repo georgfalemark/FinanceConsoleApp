@@ -9,6 +9,7 @@ namespace FinnhubAPI
     {
         public string GetCurrencyExchanged()
         {
+            //Behöver 3 bokstäverna på valutan
             Console.WriteLine("skriv in valute du vill växla till: ");
             var toCurr = Console.ReadLine().Trim().ToUpper();
             Console.WriteLine("skriv in valute du vill växla från: ");
